@@ -1,0 +1,7 @@
+{
+ "next_story_letter_index": 0,
+ "next_date": "2027-01-26",
+ "next_id": "f01",
+ "batches_made": 2,
+ "notes": "next_date = date of the first video not yet in manifest.json. IDs run f01.. then g01.. etc. (batch letter per week)."
+}

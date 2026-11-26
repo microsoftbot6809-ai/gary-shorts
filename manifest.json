@@ -1,0 +1,490 @@
+{
+ "note": "One entry per video, in posting-date order. 'file' is the file name at the repo root (raw URL = https://raw.githubusercontent.com/microsoftbot6809-ai/gary-shorts/main/<file>). Buffer is the source of truth for what is queued; use this list to decide what to queue next.",
+ "channels": {
+  "instagram": "6b074f718541f09ecba3f0b3",
+  "tiktok": "(look up with Buffer list_channels)",
+  "youtube": "(look up with Buffer list_channels)"
+ },
+ "videos": [
+  {
+   "id": "d01",
+   "date": "2026-11-27",
+   "file": "2026-11-27_d01.mp4",
+   "title": "The Burp That Shook The Town 🥤💨",
+   "desc": "Boris drank ten sodas in one minute. The burp that followed was heard in space.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d02",
+   "date": "2026-11-28",
+   "file": "2026-11-28_d02.mp4",
+   "title": "Pizza Pete Delivers To A HAUNTED House 🍕👻 (Part 1)",
+   "desc": "A very strange pizza order sends Pete up Spooky Hill. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "d03",
+   "date": "2026-11-29",
+   "file": "2026-11-29_d03.mp4",
+   "title": "Pizza Pete And The 100 Hungry Ghosts 👻🌶️ (Part 2)",
+   "desc": "Pizza falls right through ghosts. Pete finds the one thing they can eat. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "d04",
+   "date": "2026-11-30",
+   "file": "2026-11-30_d04.mp4",
+   "title": "Pizza Pete Opens A Ghost Restaurant 👻🍕 (Part 3)",
+   "desc": "Boo-roni Pizza opens, and the line goes around the block. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "d05",
+   "date": "2026-12-01",
+   "file": "2026-12-01_d05.mp4",
+   "title": "Grandpa's Cookie Jar Has A Monster 🍪👾",
+   "desc": "Forty-nine cookies vanish every night. Grandpa sets a trap.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d06",
+   "date": "2026-12-02",
+   "file": "2026-12-02_d06.mp4",
+   "title": "I Hiccupped And Flew To The Moon 🚀🌕",
+   "desc": "Every hiccup is louder than the last. Then Tim starts floating.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d07",
+   "date": "2026-12-03",
+   "file": "2026-12-03_d07.mp4",
+   "title": "Fluffy The Hamster's Great Escape 🐹🏃 (Part 1)",
+   "desc": "Plan A: the wheel. Plan B: more wheel. Part 1 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/2"
+  },
+  {
+   "id": "d08",
+   "date": "2026-12-04",
+   "file": "2026-12-04_d08.mp4",
+   "title": "Fluffy The Hamster Takes Over The Mall 🐹🏬 (Part 2)",
+   "desc": "One tiny hamster. One remote control car. One very confused mall. Part 2 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/2"
+  },
+  {
+   "id": "d09",
+   "date": "2026-12-05",
+   "file": "2026-12-05_d09.mp4",
+   "title": "The Elevator That Stops On EVERY Floor 🛗😵",
+   "desc": "Floor two has a cow. Floor four has a disco. Dave is very late for work.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d10",
+   "date": "2026-12-06",
+   "file": "2026-12-06_d10.mp4",
+   "title": "Mom Said Don't Touch The Red Button 🔴😱",
+   "desc": "Max stares at the big red button for three hours. Then he presses it.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d11",
+   "date": "2026-12-07",
+   "file": "2026-12-07_d11.mp4",
+   "title": "Gary Gets A Job 💨💼 (Part 1)",
+   "desc": "Gary needs rent money, so he goes to a job interview. His biggest weakness is beans. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "d12",
+   "date": "2026-12-08",
+   "file": "2026-12-08_d12.mp4",
+   "title": "Gary Delivers Packages With Gas 📦💨 (Part 2)",
+   "desc": "Gary flies to the top of the tallest building. The package was for floor one. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "d13",
+   "date": "2026-12-09",
+   "file": "2026-12-09_d13.mp4",
+   "title": "Gary Is Employee Of The Month 🏆💨 (Part 3)",
+   "desc": "The awards speech goes exactly how you think it does. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "d14",
+   "date": "2026-12-10",
+   "file": "2026-12-10_d14.mp4",
+   "title": "The Sneeze That Never Ended 🤧🌍",
+   "desc": "Sam sneezes once. Then he sneezes across the ocean.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d15",
+   "date": "2026-12-11",
+   "file": "2026-12-11_d15.mp4",
+   "title": "I Taught My Cat To Do My Homework 🐱📚",
+   "desc": "Math, science and a ten page essay, all done by the cat.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d16",
+   "date": "2026-12-12",
+   "file": "2026-12-12_d16.mp4",
+   "title": "The Snowman Who Wanted To Go To The Beach ⛄🏖️",
+   "desc": "Frosty packs his tiny suitcase and heads south. What could go wrong?\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d17",
+   "date": "2026-12-13",
+   "file": "2026-12-13_d17.mp4",
+   "title": "The Alien Who Ordered Takeout 👽🍔 (Part 1)",
+   "desc": "Zorp traveled four million miles for lunch. He ate the tablecloth. Part 1 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/2"
+  },
+  {
+   "id": "d18",
+   "date": "2026-12-14",
+   "file": "2026-12-14_d18.mp4",
+   "title": "The Alien Brings His Mom To Earth 👽🍔 (Part 2)",
+   "desc": "Zorp calls his mom. She brings forty-seven cousins. Part 2 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/2"
+  },
+  {
+   "id": "d19",
+   "date": "2026-12-15",
+   "file": "2026-12-15_d19.mp4",
+   "title": "Dad Vs. The WiFi 📶😤",
+   "desc": "Dad yells at the router in two languages. The fix was one wire.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d20",
+   "date": "2026-12-16",
+   "file": "2026-12-16_d20.mp4",
+   "title": "The Last Slice 🍕😈",
+   "desc": "One slice of pizza. Four hungry people. One very fast grandma.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d21",
+   "date": "2026-12-17",
+   "file": "2026-12-17_d21.mp4",
+   "title": "The Birthday Candle That Wouldn't Blow Out 🎂🕯️",
+   "desc": "Lily blows. Dad blows. The fire department blows. Nothing works.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d22",
+   "date": "2026-12-18",
+   "file": "2026-12-18_d22.mp4",
+   "title": "Bob The Robot Vacuum Takes Over The House 🤖🏠",
+   "desc": "Bob only wanted to be useful. He also locked the front door.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d23",
+   "date": "2026-12-19",
+   "file": "2026-12-19_d23.mp4",
+   "title": "Kevin Can Hear Food 🥪😱 (Part 1)",
+   "desc": "His sandwich begged him not to eat it. Then the pizza started screaming. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "d24",
+   "date": "2026-12-20",
+   "file": "2026-12-20_d24.mp4",
+   "title": "Kevin's Food Friends 🥪🍟 (Part 2)",
+   "desc": "Ice cubes are quiet. Chips are proud. His stomach has a face. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "d25",
+   "date": "2026-12-21",
+   "file": "2026-12-21_d25.mp4",
+   "title": "Kevin's Big Decision 🍰👨‍🍳 (Part 3)",
+   "desc": "Some food wants to be eaten. Kevin finds it. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "d26",
+   "date": "2026-12-22",
+   "file": "2026-12-22_d26.mp4",
+   "title": "My Dad Sleepwalked Onto A Cruise Ship 🚢😴",
+   "desc": "He only meant to go to the fridge.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d27",
+   "date": "2026-12-23",
+   "file": "2026-12-23_d27.mp4",
+   "title": "I Ate The World's Spiciest Pepper 🌶️🔥",
+   "desc": "My face turned red, then purple, then a color I did not know.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "d28",
+   "date": "2026-12-24",
+   "file": "2026-12-24_d28.mp4",
+   "title": "Santa Is Stuck In The Chimney 🎅🧱 (Part 1)",
+   "desc": "Eight billion presents, one tiny chimney. Part 1 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/2"
+  },
+  {
+   "id": "d29",
+   "date": "2026-12-25",
+   "file": "2026-12-25_d29.mp4",
+   "title": "Santa's Christmas Gas Emergency 🎅💨 (Part 2)",
+   "desc": "Rudolph had a lot of brussels sprouts for dinner. Part 2 of 2.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/2"
+  },
+  {
+   "id": "d30",
+   "date": "2026-12-26",
+   "file": "2026-12-26_d30.mp4",
+   "title": "Returning The Presents 🎁🎂",
+   "desc": "Dad returns a sweater, a singing fish, and a very old fruitcake.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e01",
+   "date": "2026-12-27",
+   "file": "2026-12-27_e01.mp4",
+   "title": "Sam's New Year's Resolution Lasted 4 Seconds 🎆🍪",
+   "desc": "Sam promised to quit snacks forever. The cookies had other plans.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e02",
+   "date": "2026-12-28",
+   "file": "2026-12-28_e02.mp4",
+   "title": "What My Dog Thinks When I Leave For 5 Minutes 🐶😭",
+   "desc": "Minute one: she is gone forever. Minute five: best day of my life.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e03",
+   "date": "2026-12-29",
+   "file": "2026-12-29_e03.mp4",
+   "title": "What If Gravity Turned Off For One Minute? 🌍🎈",
+   "desc": "Your dog would float. Your lunch would float. Your teacher would float, still giving a speech.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e04",
+   "date": "2026-12-30",
+   "file": "2026-12-30_e04.mp4",
+   "title": "The Substitute Teacher Is A Wizard 🧙📚 (Part 1)",
+   "desc": "A new sub walks in with a pointy hat and a very long beard. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "e05",
+   "date": "2026-12-31",
+   "file": "2026-12-31_e05.mp4",
+   "title": "The Wizard Teacher Casts A New Year Spell 🎆🧙 (Part 2)",
+   "desc": "A New Year party with magic goes slightly wrong. The principal has a dragon for a desk. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "e06",
+   "date": "2027-01-01",
+   "file": "2027-01-01_e06.mp4",
+   "title": "The Wizard Teacher Gets Fired 🧙🏰 (Part 3)",
+   "desc": "The principal fires the wizard. The wizard turns the school into a castle. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "e07",
+   "date": "2027-01-02",
+   "file": "2027-01-02_e07.mp4",
+   "title": "Fluffy The Hamster Runs For President 🐹🗳️",
+   "desc": "Her only promise: more seeds. For everyone.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e08",
+   "date": "2027-01-03",
+   "file": "2027-01-03_e08.mp4",
+   "title": "Pizza Pete Delivers To The Moon 🍕🌕",
+   "desc": "The order was four minutes late. That is a bad review.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e09",
+   "date": "2027-01-04",
+   "file": "2027-01-04_e09.mp4",
+   "title": "Back To School: Everyone Forgot Everything 🎒🧠",
+   "desc": "What is two plus two? Is it a fish? Is it Tuesday?\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e10",
+   "date": "2027-01-05",
+   "file": "2027-01-05_e10.mp4",
+   "title": "Boris Built A Burp-Powered Time Machine ⏰💨",
+   "desc": "One burp. One dinosaur. Zero dinosaurs left.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e11",
+   "date": "2027-01-06",
+   "file": "2027-01-06_e11.mp4",
+   "title": "What Your Fridge Does When The Door Is Closed 🧊🪩",
+   "desc": "The milk is on the turntables. The eggs are doing a conga line.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e12",
+   "date": "2027-01-07",
+   "file": "2027-01-07_e12.mp4",
+   "title": "Penny The Pigeon Steals A Whole Pizza 🕊️🍕 (Part 1)",
+   "desc": "Penny does not want a crumb. She wants the whole pizza. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "e13",
+   "date": "2027-01-08",
+   "file": "2027-01-08_e13.mp4",
+   "title": "Penny The Pigeon Starts A Pigeon Gang 🕊️🧮 (Part 2)",
+   "desc": "Gerald the pigeon calculated 104 ways it goes wrong. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "e14",
+   "date": "2027-01-09",
+   "file": "2027-01-09_e14.mp4",
+   "title": "Penny The Pigeon Takes Over The City 🕊️🏙️ (Part 3)",
+   "desc": "Ten thousand pigeons. One demand. Free pizza forever. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "e15",
+   "date": "2027-01-10",
+   "file": "2027-01-10_e15.mp4",
+   "title": "The Principal Who Cancelled The Snow Day ⛄🏫",
+   "desc": "Forty inches of snow. School is open. The principal has a shovel.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e16",
+   "date": "2027-01-11",
+   "file": "2027-01-11_e16.mp4",
+   "title": "Grandma Learns To Use Her Phone 📱👵",
+   "desc": "The camera pointed at her left nostril for forty minutes.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e17",
+   "date": "2027-01-12",
+   "file": "2027-01-12_e17.mp4",
+   "title": "The Shopping Cart With A Mind Of Its Own 🛒💨",
+   "desc": "You know the one. It only wants to go left.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e18",
+   "date": "2027-01-13",
+   "file": "2027-01-13_e18.mp4",
+   "title": "My Brain At 3 AM 🧠🌙",
+   "desc": "Remember that embarrassing thing from 2011? Is bread just flat cake?\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e19",
+   "date": "2027-01-14",
+   "file": "2027-01-14_e19.mp4",
+   "title": "The Dentist Found Something In My Tooth 🦷🏴‍☠️",
+   "desc": "A tiny door. A tiny doorbell. A tiny pirate.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e20",
+   "date": "2027-01-15",
+   "file": "2027-01-15_e20.mp4",
+   "title": "The Ghosts Who Bought The Wrong House 👻🏠",
+   "desc": "Two ghosts moved in. So did a very loud family.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e21",
+   "date": "2027-01-16",
+   "file": "2027-01-16_e21.mp4",
+   "title": "The World's Slowest Race: Snail Vs Turtle 🐌🐢",
+   "desc": "Ten feet. One tree grew. It was a tie.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e22",
+   "date": "2027-01-17",
+   "file": "2027-01-17_e22.mp4",
+   "title": "The Boy Who Couldn't Stop Growing 🌱📏 (Part 1)",
+   "desc": "Tom woke up with two extra feet. By dinner, he was in the attic. Part 1 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "1/3"
+  },
+  {
+   "id": "e23",
+   "date": "2027-01-18",
+   "file": "2027-01-18_e23.mp4",
+   "title": "The Boy Who Couldn't Stop Growing 🏀 (Part 2)",
+   "desc": "Ten feet tall. The coach is very interested. Part 2 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "2/3"
+  },
+  {
+   "id": "e24",
+   "date": "2027-01-19",
+   "file": "2027-01-19_e24.mp4",
+   "title": "The Boy Who Couldn't Stop Growing 🙈 (Part 3)",
+   "desc": "The hardest game of hide and seek in history. Part 3 of 3.\n\nNew animated Short every day. Subscribe so you do not miss the next part!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": "3/3"
+  },
+  {
+   "id": "e25",
+   "date": "2027-01-20",
+   "file": "2027-01-20_e25.mp4",
+   "title": "Mr. Pickle Gets A Haircut 🥒✂️",
+   "desc": "Just a little off the top. There is nothing on top.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e26",
+   "date": "2027-01-21",
+   "file": "2027-01-21_e26.mp4",
+   "title": "My Alarm Clock Has Trust Issues ⏰😤",
+   "desc": "What is seven times eight? Who is your favorite alarm clock?\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e27",
+   "date": "2027-01-22",
+   "file": "2027-01-22_e27.mp4",
+   "title": "Octopus Tries To Tie His Shoes 🐙👟",
+   "desc": "Eight shoes. One hour. One very tangled octopus.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e28",
+   "date": "2027-01-23",
+   "file": "2027-01-23_e28.mp4",
+   "title": "The Elf On The Shelf Is Still Here In January 🧝📅",
+   "desc": "Nobody told him Christmas was over.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e29",
+   "date": "2027-01-24",
+   "file": "2027-01-24_e29.mp4",
+   "title": "My Superpower Is Finding The Other Sock 🧦🦸",
+   "desc": "A villain steals every left sock in the city. Sock Man to the rescue.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  },
+  {
+   "id": "e30",
+   "date": "2027-01-25",
+   "file": "2027-01-25_e30.mp4",
+   "title": "The Great Cheese Heist 🧀🐭",
+   "desc": "Step one: sneak past the cat. Step three: the cat ate the cheese.\n\nNew animated Short every day. Subscribe for more!\n\n#Shorts #Animation #Funny #Cartoon #Comedy",
+   "part": null
+  }
+ ]
+}
